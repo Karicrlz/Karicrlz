@@ -7,7 +7,7 @@ Mis principales competencias incluyen Python, SQL, Tableau, y gestión de amenaz
 - 👯 Estoy en busca de nuevas oportunidades que me permitan integrar mi pasión por la tecnología y la gestión de datos así como la seguridad digital.
 
 ## Encuentrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/karina-crlz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/karina-crlz) www.linkedin.com/in/karina-crlz 
 
 ## Habilidades 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
